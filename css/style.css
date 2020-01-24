@@ -1,0 +1,239 @@
+body {
+	font-family: 'Gentium Book Basic', serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Yeseva One', cursive;
+}
+
+/*Banner Section CSS*/
+header {
+	padding: 10px;
+    background: url(../image/background-bg.png);
+    height: 94vh;  
+    background-position: center;
+    background-size: cover;
+}
+
+.text-center {
+	text-align: center;
+}
+
+img-fluid {
+	width: 100%;
+}
+
+.navbar .nav-item .nav-link {
+	color: #fff;
+	margin: 0 12px;
+    font-size: 20px;
+}
+.navbar .nav-item.active .nav-link {
+	color: #fff;
+}
+.navbar .nav-item .nav-link:hover {}
+.navbar .social-icon a {
+    padding: 5px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.hero-area {}
+.hero-area h1 {
+	color: #fff;
+    font-size: 75px;
+    padding: 70px;
+}
+.hero-area .bt {} 
+
+.hero-area .btn-cta {
+	color: #fff;
+    border: 1px solid #f2ebd3;
+    border-radius: 0;
+    padding: 7px 25px;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: -130px;
+    background: #1d1c1f;
+}
+.hero-area .btn-ghost {
+	color: #fff;
+    border: 1px solid #f2ebd3;
+    border-radius: 0;
+    padding: 7px 25px;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 25px;
+    margin-top: -130px;
+}    
+
+.hero-area .btn-cta:hover {
+	background: #ffffff54;
+	transition: 0.5s linear;
+}
+
+.hero-area .btn-ghost:hover {
+	background: #ffffff54; 
+	border: 1px solid #f2ebd3;
+	transition: 0.5s linear;
+}
+
+/*Feature Section CSS*/
+
+.feature {
+	background: url(../image/pattern.png);
+    background-position: center;
+    background-size: cover;
+    height: 94vh;
+}
+.feature .decoration2 {}
+.feature h1 {
+    color: #cc9900;
+    margin-top: 105px;
+}
+.feature p {
+	padding: 24px;
+}
+.feature .feature-img img {
+	margin-top: -498px;
+	margin-left: 516px;
+	height: 600px;
+}
+
+/*Fine Section CSS*/
+.fine {
+	background: url(../image/background-bg2.png);
+	background-position: center;
+	background-size: cover;
+	height: 94vh;
+}
+.fine .fine-bg img {
+	margin-top: 89px;
+	margin-left: 565px;
+}
+
+/*Appetiser Section CSS*/
+.appetiser {
+	background: url(../image/ap-background.png);
+    height: 133vh;
+}
+
+/*Review Section CSS*/
+.review {
+	background: url(../image/background-bg3.png);
+	background-position: center;
+    background-size: cover;
+    height: 94vh;
+}
+.review .review-bg img {
+	margin-top: 86px;
+    margin-left: 213px;
+}
+
+/* Food Section CSS*/
+
+.food {
+	background: url(../image/pattern.png);
+	background-position: center;
+    background-size: cover;
+    height: 94vh;
+}
+.food .food-img-1 {}
+.food .food-img-1 img {}
+.food .food-img-1 .image1 {
+    margin-top: 115px;
+}
+.food .food-img-2 img {
+	margin-left: 323px;
+	margin-top: -536px;
+}
+.food .food-img-1 .image2 {}
+.food .r-food {
+	width: 71%;
+    margin-left: 714px;
+    margin-top: -542px;
+}
+.food .r-food h1 {
+	color: #cc9900;
+}
+.food .r-food img {
+	margin-left: 70px;
+}
+.food .r-food .divider {}
+.food .r-food .p-color {
+	margin-top: 26px;
+    color: #6f6f6f;
+}
+.food .r-food p {
+
+}
+
+form {}
+form .form-control {}
+form .btn-submit {}
+
+
+
+/* Footer Section CSS*/
+footer {
+	background: #191919;
+}
+
+footer h3 {
+	color: #fefefe;
+    font-size: 24px;
+    margin-left: 46px;
+    margin-top: 37px;
+}
+footer .fdecoration {
+}
+footer img {}
+footer p {
+	color: #fefefe;
+    margin-top: 15px;
+    margin-left: -25px;
+}
+footer a {
+	color: #fefefe;
+	padding: 0 2px;
+}
+
+footer h3 {
+	color: #fefefe;
+    font-size: 24px;
+    margin-left: 46px;
+    margin-top: 37px;
+}
+footer img .fdecoration2 {}
+footer img {}
+footer .fd-color {
+	color: #fefefe;
+    padding: 0 7px;
+    margin: 0 74px;
+}
+footer p {
+	color: #fefefe;
+    margin-top: 15px;
+    margin-left: -25px;
+}
+footer h3 {
+	color: #fefefe;
+	font-size: 24px;
+	margin-left: 6px;
+}
+footer img .fdecoration3 {}
+footer .f-d {
+	padding: 0 83px;
+}
+footer p {
+	color: #fefefe;
+	padding: 0 7px;
+}
+
+
+
+
+
+
